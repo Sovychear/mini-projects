@@ -1,5 +1,3 @@
-# mini-projects
-
 #Ask the user their name
 name = input ("What's your name? ").title().strip()
 
